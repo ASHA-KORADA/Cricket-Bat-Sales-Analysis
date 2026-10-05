@@ -1,0 +1,11 @@
+
+
+CREATE DATABASE CricketBatSales
+
+GO
+
+
+
+
+
+
